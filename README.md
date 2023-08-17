@@ -2,15 +2,15 @@
 ## Classwork
 Развитие интернета:
 
-![1](src\classwork\1.JPG)
+![1](src/classwork/1.JPG)
 
 Современный интернет:
 
-![2](src\classwork\2.JPG)
+![2](src/classwork/2.JPG)
 
 Современный интернет(Архитектура браузера):
 
-![3](src\classwork\3.JPG)
+![3](src/classwork/3.JPG)
 
 ASP.net Core Arch:
 
@@ -26,7 +26,7 @@ DJANGO_ARCH:
 
 SPA (SOA) на примере YOUTUBE:
 
-![4](src\classwork\4.JPG)
+![4](src/classwork/4.JPG)
 
 ## Homework
 1. Доработать экранные формы интерфейса в https://www.figma.com/ или https://app.diagrams.net/.
